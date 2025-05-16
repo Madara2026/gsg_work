@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقعي الشخصي – عبد الله نعيم زقوت</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>موقعي الشخصي – عبد الله نعيم زقوت</h1>
+    </header>
+    <main>
+        <section>
+            <h2>عنّي</h2>
+            <p>أنا عبد الله مهتم بمجال تطوير المواقع، وأتقدم بهذا المشروع كجزء من مهمة HTML وCSS. هدفي هو تعلّم المزيد وتطوير مهاراتي في تصميم وتطوير الويب.</p>
+        </section>
+        <section>
+            <h2>معلومات التواصل</h2>
+            <p>البريد الإلكتروني: <a href="mailto:abdneim2003@gmail.com">abdneim2003@gmail.com</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 عبد الله نعيم زقوت - جميع الحقوق محفوظة</p>
+    </footer>
+</body>
+</html>
